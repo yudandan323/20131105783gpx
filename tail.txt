@@ -1,0 +1,8 @@
+],
+{strokeColor:"black", strokeWeight:6, strokeOpacity:0.5} 
+); 
+map.addOverlay(polyline);
+map.centerAndZoom(point, 11); 
+</script>
+</body>
+</html>
